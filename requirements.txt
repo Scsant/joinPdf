@@ -1,5 +1,5 @@
 streamlit
-pymupdf
+pypdf
 pandas
 openpyxl
 pyperclip
